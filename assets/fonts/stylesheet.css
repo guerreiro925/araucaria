@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'alegreya_sansmedium';
+    src: url('alegreyasans-medium.woff2') format('woff2'),
+         url('alegreyasans-medium.woff') format('woff'),
+		 url('alegreyasans-medium-webfont.eot'),
+		 url('alegreyasans-medium-webfont.svg#alegreya_sansmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'alegreya_sanslight';
+    src: url('alegreyasans-light.woff2') format('woff2'),
+         url('alegreyasans-light.woff') format('woff'),
+		 url('alegreyasans-light-webfont.eot'),
+		 url('alegreyasans-light-webfont.svg#alegreya_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'alegreya_sansbold';
+    src: url('alegreyasans-bold.woff2') format('woff2'),
+         url('alegreyasans-bold.woff') format('woff'),
+		 url('alegreyasans-bold-webfont.eot'),
+		 url('alegreyasans-bold-webfont.svg#alegreya_sansbold') format('svg');
+
+    font-weight: bold;
+    font-style: normal;
+
+}
